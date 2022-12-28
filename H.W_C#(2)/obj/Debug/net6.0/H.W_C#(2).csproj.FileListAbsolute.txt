@@ -1,0 +1,15 @@
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\bin\Debug\net6.0\H.W_C#(2).exe
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\bin\Debug\net6.0\H.W_C#(2).deps.json
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\bin\Debug\net6.0\H.W_C#(2).runtimeconfig.json
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\bin\Debug\net6.0\H.W_C#(2).dll
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\bin\Debug\net6.0\H.W_C#(2).pdb
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).csproj.AssemblyReference.cache
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).AssemblyInfoInputs.cache
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).AssemblyInfo.cs
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).csproj.CoreCompileInputs.cache
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).dll
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\refint\H.W_C#(2).dll
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).pdb
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\H.W_C#(2).genruntimeconfig.cache
+C:\GeekBrains HomeWorld\HomeWork\H.W_C#(2)\obj\Debug\net6.0\ref\H.W_C#(2).dll
